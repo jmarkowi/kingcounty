@@ -125,3 +125,21 @@ and has consistent predictions for both training and unseen data.
  - Compare recent sale price to original purchase price to determine trends and identify good areas for investment
  - For a given budget, identify for buyers affordable house size (ft2) by location
  - Use more detailed mapping to identify homes in urban, suburban, and rural areas.
+
+## For More Information
+
+See the full analysis in the [Jupyter Notebook](./predicting_prices_king_county_jupyternb.ipynb) or review this [presentation](./predicting_prices_king_county_presentation.pdf)
+
+```
+├── Code
+│   ├── Markowitz_working_nb.ipynb
+│   ├── Ronak Notebook.ipynb
+│   ├── Dillon Eda.ipynb
+│   
+├── Data
+├── Images
+├── predicting_prices_king_county_jupyternb.ipynb
+├── predicting_prices_king_county_presentation.pdf
+└── README.md
+```
+
